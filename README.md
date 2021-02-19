@@ -1,3 +1,5 @@
+Link: [Dashboard / Workbook](https://public.tableau.com/views/Comstock-CitiBikeAnalysis/CommonRoutesDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+
 ### Customers vs. Subscribers
 
 **Observations**
